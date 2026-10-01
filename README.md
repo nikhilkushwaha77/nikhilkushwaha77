@@ -85,15 +85,13 @@
 
 ---
 
-# 📈 Contribution Activity
+<h2 align="left">📈 Contribution Activity</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilkushwaha77"
-    alt="Contribution Activity Graph"
-  />
+  <a href="https://github.com/nikhilkushwaha77">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilkushwaha77" alt="GitHub Contribution Activity Graph"/>
+  </a>
 </p>
-
 ---
 
 # 🏆 GitHub Achievements

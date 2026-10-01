@@ -88,7 +88,10 @@
 # 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilkushwaha77&theme=github-compact&hide_border=true&area=true" alt="Contribution Activity Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilkushwaha77"
+    alt="Contribution Activity Graph"
+  />
 </p>
 
 ---
@@ -96,20 +99,24 @@
 # 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikhilkushwaha77&theme=flat&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=nikhilkushwaha77&theme=flat&no-frame=true&margin-w=10"
+    alt="GitHub Trophies"
+  />
 </p>
-
----
 
 # 📌 GitHub Highlights
 
 <p align="center">
 
-<img src="https://img.shields.io/github/stars/nikhilkushwaha77?label=Stars%20Received&style=for-the-badge" alt="Stars Received" />
+<img
+  src="https://img.shields.io/github/stars/nikhilkushwaha77?label=Stars%20Received&style=for-the-badge"
+  alt="Stars Received"
+/>
 
-<img src="https://img.shields.io/github/followers/nikhilkushwaha77?label=Followers&style=for-the-badge" alt="Followers" />
-
-<img src="https://img.shields.io/github/commit-activity/y/nikhilkushwaha77?label=Yearly%20Commits&style=for-the-badge" alt="Yearly Commits" />
+<img
+  src="https://img.shields.io/github/followers/nikhilkushwaha77?label=Followers&style=for-the-badge"
+  alt="Followers"
+/>
 
 </p>
-

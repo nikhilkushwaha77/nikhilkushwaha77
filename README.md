@@ -5,8 +5,8 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=udaysharmadev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/udaysharmadev?label=Followers&style=flat" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=nikhilkushwaha77&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/nikhilkushwaha77?label=Followers&style=flat" alt="Followers" />
 </p>
 
 ---
@@ -68,11 +68,11 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=udaysharmadev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilkushwaha77&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaysharmadev&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkushwaha77&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -80,7 +80,7 @@
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=udaysharmadev&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=nikhilkushwaha77&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -88,7 +88,7 @@
 # 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=udaysharmadev&theme=github-compact&hide_border=true&area=true" alt="Contribution Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilkushwaha77&theme=github-compact&hide_border=true&area=true" alt="Contribution Activity Graph" />
 </p>
 
 ---
@@ -96,7 +96,7 @@
 # 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=udaysharmadev&theme=flat&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nikhilkushwaha77&theme=flat&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -105,11 +105,11 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/github/stars/udaysharmadev?label=Stars%20Received&style=for-the-badge" alt="Stars Received" />
+<img src="https://img.shields.io/github/stars/nikhilkushwaha77?label=Stars%20Received&style=for-the-badge" alt="Stars Received" />
 
-<img src="https://img.shields.io/github/followers/udaysharmadev?label=Followers&style=for-the-badge" alt="Followers" />
+<img src="https://img.shields.io/github/followers/nikhilkushwaha77?label=Followers&style=for-the-badge" alt="Followers" />
 
-<img src="https://img.shields.io/github/commit-activity/y/udaysharmadev?label=Yearly%20Commits&style=for-the-badge" alt="Yearly Commits" />
+<img src="https://img.shields.io/github/commit-activity/y/nikhilkushwaha77?label=Yearly%20Commits&style=for-the-badge" alt="Yearly Commits" />
 
 </p>
 

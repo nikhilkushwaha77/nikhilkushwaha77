@@ -14,8 +14,6 @@
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science Engineering Student
-- ☕ Currently learning **Java**
-- 🧠 Practicing **Data Structures & Algorithms**
 - 🌱 Learning **Git & GitHub**
 - 💻 Improving my programming and problem-solving skills
 - 🚀 Focused on learning, practicing and building
